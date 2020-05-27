@@ -1,0 +1,12 @@
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+C:\RepositorioGit\tpn6-miguelgmzjr\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
